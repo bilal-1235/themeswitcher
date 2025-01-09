@@ -9,7 +9,7 @@ export default function Card() {
             <div className="px-5 pb-5">
                 <a href="/">
                     <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-                        White car on the black desert and ner green mountain
+                        White car on the black desert and green mountain
                     </h5>
                 </a>
                 <div className="flex items-center mt-2.5 mb-5">
